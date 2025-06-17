@@ -7,15 +7,27 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="images/python.png" height=36"/>
+  <img src="images/R_logo.png" height=28"/>
+  <img src="images/postgresql.png" height=28"/>
+  <img src="images/aws.png" height=28"/>
+  <img src="images/docker.png" height=28"/>
 </p>
 
----
+
+```markdown
+## 🚀 About Me
+
+💡 **Consistently mastering machine learning models**  
+📊 *Passionate about solving client challenges and generating actionable insights through data*  
+📚 Currently studying MLOps with Andrew Ng on Coursera:  
+  👉 Machine Learning in Production
+
+## 🛠️ Projects in Progress
+
+- 🧠 **AI-based package risk detection**: Developing a cloud-deployed machine learning model to identify risky or illegal packages  
+- ⏱️ **Delivery time prediction model**: Designing a solution to forecast delivery times with ≤1-day error margin
+```
 
 ## 🚀 About Me
 
