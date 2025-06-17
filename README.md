@@ -1,10 +1,8 @@
 <h1 align="center">👋 Hi everyone, I'm Julian Mokwa Felix!</h1>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <bold> Data Scientist </bold>
 </h3>
-
----
 
 <p align="center">
   <img src="images/python.png" height=36"/>
