@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="images/python.png" height=36"/>
-  <img src="images/R_logo.png" height=28"/>
-  <img src="images/postgresql.png" height=28"/>
-  <img src="images/aws.png" height=28"/>
-  <img src="images/docker.png" height=28"/>
+  <img src="images/R_logo.png" height=36"/>
+  <img src="images/postgresql.png" height=36"/>
+  <img src="images/aws.png" height=36"/>
+  <img src="images/docker.png" height=36"/>
 </p>
 
 
