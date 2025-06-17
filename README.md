@@ -1,6 +1,21 @@
-# 👋 Hi there, I'm Mr. Travolta
+<h1 align="center">👋 Hi everyone, I'm Julian Mokwa Felix!</h1>
 
-🇧🇷 Brazilian Data Scientist based in 🇲🇽 Mexico — on a journey to becoming an **AI Engineer** with a focus on **Cloud AI Solutions** ☁️🧠
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Data%20Scientist-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+</h3>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
 
 ## 🚀 About Me
 
