@@ -14,17 +14,19 @@
 
 
 ```markdown
-## 🚀 About Me
 
-💡 **Consistently mastering machine learning models**  
-📊 *Passionate about solving client challenges and generating actionable insights through data*  
-📚 Currently studying MLOps with Andrew Ng on Coursera:  
-  👉 Machine Learning in Production
+💡 I'm consistently mastering machine learning models
+📊 Passionate about solving client challenges and generating actionable insights through data
+📚 Currently expanding my MLOps knowledge:
+    👉 Machine Learning in Production (Coursera, Andrew NG)
 
-## 🛠️ Projects in Progress
+## 🛠️ Clients Projects in Progress
 
-- 🧠 **AI-based package risk detection**: Developing a cloud-deployed machine learning model to identify risky or illegal packages  
-- ⏱️ **Delivery time prediction model**: Designing a solution to forecast delivery times with ≤1-day error margin
+- 🧠 AI-based Package Risk Detection
+  Developing a cloud-deployed machine learning model to identify risky and illegal packages
+
+- ⏱️ Delivery Time Prediction Model 
+  Designing a solution to forecast delivery times with ≤1-day error margin
 ```
 
 ## 🚀 About Me
