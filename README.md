@@ -23,42 +23,40 @@
 ## 🛠️ Clients Projects in Progress
 
 - 🧠 AI-based Package Risk Detection
-  Developing a cloud-deployed machine learning model to identify risky and illegal packages
+  Developing a cloud-deployed machine learning model to identify risky and potentially illegal packages
 
 - ⏱️ Delivery Time Prediction Model 
   Designing a solution to forecast delivery times with ≤1-day error margin
 ```
 
-## 🚀 About Me
+## 🚀 Personal Projects
 
-I'm a passionate Data Scientist with a strong background in Finance, FP&A, and Supply Chain, transitioning into full-stack AI engineering. I develop and deploy machine learning and AI solutions — from forecasting and optimization models to neural networks integrated into real-time systems.
+A demo of detection powered by YOLOv8, wrapped in Docker and served via FastAPI—showcasing a production-ready ML deployment pipeline.
+<p align="left">
+  <a href="https://github.com/julianmfx/ml-object-detector" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=julianmfx&repo=ml-object-detector&theme=dark" 
+      alt="Pin of ml-object-detector" 
+      style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
+    />
+  </a>
+</p>
 
-I specialize in:
-- 🧠 Machine Learning, Deep Learning & Neural Networks
-- 📊 Financial Modeling, Forecasting & Risk Analysis
-- 🛠️ Building AI-powered apps using Python, R, SQL, and Power BI
-- ☁️ Cloud development with AWS | GCP (exploring BigQuery, VertexAI)
-- 🧾 Automating Excel + ERP systems with `xlwings`, FastAPI, and LLMs
+## 🌟 About Me
 
-## 💡 What I'm Working On
-- 🎯 Transitioning from Data Scientist to AI Engineer
-- 🧩 Developing intelligent platforms for logistics and retail
-- 📦 Forecasting models for inventory, cost, and margin optimization
-- 🤖 LLM-based assistants for financial and operational analytics
+Data has been my passion since the year I graduated. Today, I thrive on developing and deploying machine learning and AI solutions each day. What I love most is getting a deep understanding of data and creating actionable insights from it. I also co-founded Bompard Mokwa & Hoffmann, a consulting firm focused on FP&A, where we build adavanced analytics tools.
 
-## 📈 Recent Highlights
-- 🏢 Co-founder @ **BMH Analytics** – where we build advanced analytics tools for real-world companies
-- 📊 Delivered a forecasting system for cost per piece in a multinational supply chain
-- 🔍 Built a credit scoring model integrating macroeconomic variables and KS-stat evaluation
+## 💡 Studying
+- ☁️ Cloud development with GCP (BigQuery)
+- 🛠️ FastAPI and Docker for Computer Vision Model Deployment (YOLOv8)
+- 🤖 LLM-based assistants for Financial and Operational Analytics
 
-## 📚 Always Learning
-- MLOps | Cloud AI Deployment | Containerization (Docker, FastAPI)
-- Advanced statistical modeling for financial risk and operations
-- PySpark, BigQuery, and scalable ML pipelines
-
-## 🤝 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
-- 🧠 [Personal Website / Portfolio](https://yourportfolio.com) *(optional)*
-- 🐍 [GitHub Repos](https://github.com/YOUR-GITHUB-HANDLE)
-
----
+## 🤝 Get in Touch!
+<div align="left">
+  <a href="https://www.linkedin.com/in/jmf-data/" target="_blank" style="display:inline-block;margin-right:10px;">
+    <img src="images/linkedin_logo.png" alt="LinkedIn" style="height:36px;"/>
+  </a>
+  <a href="mailto:julian.mokwa@gmail.com" style="display:inline-block;">
+    <img src="images/gmail_logo.png" alt="Gmail" style="height:36px;"/>
+  </a>
+</div>
