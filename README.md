@@ -54,25 +54,15 @@ Data has been my passion since the year I graduated. Today, I thrive on developi
 <div align="left">
   <a href="https://www.linkedin.com/in/jmf-data/" 
      target="_blank" 
-     style="
-       display:inline-block;
-       width:35px;          /* cut off 1px on the right */
-       height:36px;
-       overflow:hidden;
-       margin-right:10px;
-       border-radius:4px;
-     ">
+     style="display:inline-block; width:36px; height:36px; margin-right:10px; cursor:pointer;">
     <img src="images/linkedin_logo.png" 
          alt="LinkedIn" 
-         style="
-           width:36px;
-           height:36px;
-           display:block;
-           object-fit:cover;
-           object-position:-1px 0;  /* shift left by 1px */
-         " />
+         style="width:36px; height:36px; display:block; object-fit:cover;"/>
   </a>
-  <a href="mailto:julian.mokwa@gmail.com" style="display:inline-block;">
-    <img src="images/gmail_logo.png" alt="Gmail" style="width:36px;height:36px;display:block;" />
+  <a href="mailto:julian.mokwa@gmail.com" 
+     style="display:inline-block; width:36px; height:36px; cursor:pointer;">
+    <img src="images/gmail_logo.png" 
+         alt="Gmail" 
+         style="width:36px; height:36px; display:block;"/>
   </a>
 </div>
