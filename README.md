@@ -59,7 +59,7 @@ Data has been my passion since the year I graduated. Today, I thrive on developi
          alt="LinkedIn" 
          style="width:36px; height:36px; display:block; object-fit:cover;"/>
   </a>
-  <a href="mailto:julian.mokwa@gmail.com" 
+  <a href="mailto:julianmfx@gmail.com" 
      style="display:inline-block; width:36px; height:36px; cursor:pointer;">
     <img src="images/gmail_logo.png" 
          alt="Gmail" 
