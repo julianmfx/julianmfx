@@ -25,11 +25,10 @@
 ## 🚀 Personal Projects
 
 <a href="https://github.com/julianmfx/listing-enhancer">
-  <img src="https://vercel-drab-five-99.vercel.app/api/pin/?username=julianmfx&repo=listing-enhancer&theme=dark&hide_border=true" />
+  <img src="https://vercel-drab-five-99.vercel.app/api/pin/?username=julianmfx&repo=listing-enhancer&theme=dark" />
 </a>
-
 <a href="https://github.com/julianmfx/ml-object-detector">
-  <img src="https://vercel-drab-five-99.vercel.app/api/pin/?username=julianmfx&repo=ml-object-detector&theme=dark&hide_border=true" />
+  <img src="https://vercel-drab-five-99.vercel.app/api/pin/?username=julianmfx&repo=ml-object-detector&theme=dark" />
 </a>
 
 ## 🌟 About Me
