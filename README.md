@@ -36,8 +36,6 @@
 Data has been my passion since the year I graduated. Today, I thrive on developing and deploying machine learning and AI solutions each day. What I love most is getting a deep understanding of data and creating actionable insights from it. I also co-founded Bompard Mokwa & Hoffmann, a consulting firm focused on FP&A, where we build adavanced analytics tools.
 
 ## 💡 Studying
-- ☁️ Cloud development with GCP (BigQuery)
-- 🛠️ FastAPI and Docker for Computer Vision Model Deployment (YOLOv8)
 - 🤖 LLM-based assistants for Financial and Operational Analytics
 
 ## 🤝 Get in Touch!
