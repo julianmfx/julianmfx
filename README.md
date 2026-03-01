@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi everyone, I'm Julian Mokwa Felix!</h1>
 
 <h3 align="center">
-  <bold> Data Scientist </bold>
+  <bold> Data Scientist / ML Engineer </bold>
 </h3>
 
 <p align="center">
@@ -17,29 +17,20 @@
 
 💡 I'm consistently mastering machine learning models
 📊 Passionate about solving client challenges and generating actionable insights through data
-📚 Currently expanding my MLOps knowledge:
-    👉 Machine Learning in Production (Coursera, Andrew NG)
+📚 Currently expanding my mathematical knowledge in ML:
+  👉 Machine Learning Advanced Track (Bourbaki)
 
-## 🛠️ Clients Projects in Progress
-
-- 🧠 AI-based Package Risk Detection
-  Developing a cloud-deployed machine learning model to identify risky and potentially illegal packages
-
-- ⏱️ Delivery Time Prediction Model 
-  Designing a solution to forecast delivery times with ≤1-day error margin
 ```
 
 ## 🚀 Personal Projects
 
-<p align="left">
-  <a href="https://github.com/julianmfx/ml-object-detector" target="_blank">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=julianmfx&repo=ml-object-detector&theme=dark" 
-      alt="Pin of ml-object-detector" 
-      style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
-    />
-  </a>
-</p>
+<a href="https://github.com/julianmfx/listing-enhancer">
+  <img src="https://vercel-drab-five-99.vercel.app/api/pin/?username=julianmfx&repo=listing-enhancer&theme=dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/julianmfx/ml-object-detector">
+  <img src="https://vercel-drab-five-99.vercel.app/api/pin/?username=julianmfx&repo=ml-object-detector&theme=dark&hide_border=true" />
+</a>
 
 ## 🌟 About Me
 
