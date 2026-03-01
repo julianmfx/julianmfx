@@ -44,12 +44,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=julianmfx&theme=github-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff" 
-  />
-</p>
-
 ## 🌟 About Me
 
 Data has been my passion since the year I graduated. Today, I thrive on developing and deploying machine learning and AI solutions each day. What I love most is getting a deep understanding of data and creating actionable insights from it. I also co-founded Bompard Mokwa & Hoffmann, a consulting firm focused on FP&A, where we build adavanced analytics tools.
