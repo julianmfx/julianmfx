@@ -33,20 +33,14 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-julianmfx.vercel.app/api?username=julianmfx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" 
-    height="180em"
-  />
-  
-  <img 
-    src="https://github-readme-stats-julianmfx.vercel.app/api/top-langs/?username=julianmfx&layout=compact&langs_count=10&hide_border=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" 
+    src="https://github-readme-stats-julianmfx.vercel.app/api?username=julianmfx&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=ffa657&icon_color=ff7b00&text_color=c9d1d9&ring_color=ffa657&border_radius=12" 
     height="180em"
   />
 </p>
 
-
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=julianmfx&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" 
+    src="https://streak-stats.demolab.com?user=julianmfx&theme=dark&hide_border=true&background=0d1117&stroke=ffb86b&ring=ffa657&fire=ff7b00&currStreakLabel=ffb86b&sideLabels=ffa657&dates=8b949e" 
   />
 </p>
 
