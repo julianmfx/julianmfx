@@ -17,8 +17,6 @@
 
 💡 I'm consistently mastering machine learning models
 📊 Passionate about solving client challenges and generating actionable insights through data
-📚 Currently expanding my mathematical knowledge in ML:
-  👉 Machine Learning Advanced Track (Bourbaki)
 
 ```
 
@@ -37,6 +35,7 @@ Data has been my passion since the year I graduated. Today, I thrive on developi
 
 ## 💡 Studying
 - 🤖 LLM-based assistants for Financial and Operational Analytics
+- 📚 Mathematical knowledge in ML - [Machine Learning Advanced Track (Bourbaki)](https://www.colegio-bourbaki.com/track-de-machine-learning)
 
 ## 🤝 Get in Touch!
 <div align="left">
