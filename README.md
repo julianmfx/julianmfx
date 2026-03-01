@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats-julianmfx.vercel.app/api/pin/?username=julianmfx&repo=ml-object-detector&theme=dark" />
 </a>
 
-## 📊 GitHub Analytics
+## 📊 Stats
 
 <p align="center">
   <img 
