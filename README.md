@@ -20,30 +20,6 @@
 
 ```
 
-## 🚀 Personal Projects
-
-<a href="https://github.com/julianmfx/listing-enhancer">
-  <img src="https://github-readme-stats-julianmfx.vercel.app/api/pin/?username=julianmfx&repo=listing-enhancer&theme=dark" />
-</a>
-<a href="https://github.com/julianmfx/ml-object-detector">
-  <img src="https://github-readme-stats-julianmfx.vercel.app/api/pin/?username=julianmfx&repo=ml-object-detector&theme=dark" />
-</a>
-
-## 📊 Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-julianmfx.vercel.app/api?username=julianmfx&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=ffa657&icon_color=ff7b00&text_color=c9d1d9&ring_color=ffa657&border_radius=12" 
-    height="180em"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=julianmfx&theme=dark&hide_border=true&background=0d1117&stroke=ffb86b&ring=ffa657&fire=ff7b00&currStreakLabel=ffb86b&sideLabels=ffa657&dates=8b949e" 
-  />
-</p>
-
 ## 🌟 About Me
 
 Data has been my passion since the year I graduated. Today, I thrive on developing and deploying machine learning and AI solutions each day. What I love most is getting a deep understanding of data and creating actionable insights from it. I also co-founded Bompard Mokwa & Hoffmann, a consulting firm focused on FP&A, where we build advanced analytics tools.
