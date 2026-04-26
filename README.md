@@ -44,3 +44,10 @@ Data has been my passion since the year I graduated. Today, I thrive on developi
          style="width:36px; height:36px; display:block;"/>
   </a>
 </div>
+
+## Stats test
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=julianmfx&theme=dark&hide_border=true&background=0d1117&stroke=ffb86b&ring=ffa657&fire=ff7b00&currStreakLabel=ffb86b&sideLabels=ffa657&dates=8b949e" 
+  />
+</p>
