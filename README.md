@@ -5,13 +5,13 @@
 
 ---
  
-Sometimes a runner, sometimes an Analyst.
+Sometimes a Runner, sometimes an Data Analyst.
 
-Sometimes a diver, sometimes a Data Scientist.
+Sometimes a Diver, sometimes a Data Scientist.
 
-Sometimes a dancer, sometimes an ML Engineer.
+Sometimes a Dancer, sometimes an ML Engineer.
 
-Sometimes a storyteller, sometimes an AI Engineer.
+Sometimes a Storyteller, sometimes an AI Engineer.
 
 Sometimes I win, sometimes I learn.
 
