@@ -26,6 +26,8 @@ Sometimes I win, sometimes I learn.
   <img src="images/terraform.png" height=36"/>
   <img src="images/n8n.png" height=26"/>
   <img src="images/open-telemetry-logo.png" height=36"/>
+  <img src="images/airflow-logo.png" height=36"/>
+  <img src="images/dbt-logo.png" height=36"/>
 </p>
 
 ## Do you have any idea we can work on together 🤝?
