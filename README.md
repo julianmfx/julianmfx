@@ -24,7 +24,8 @@ Sometimes I win, sometimes I learn.
   <img src="images/aws.png" height=36"/>
   <img src="images/docker.png" height=36"/>
   <img src="images/terraform.png" height=36"/>
-  <img src="images/n8n.png" height=36"/>
+  <img src="images/n8n.png" height=26"/>
+  <img src="images/open-telemetry-logo.png" height=36"/>
 </p>
 
 ## Do you have any idea we can work on togheter 🤝?
