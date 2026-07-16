@@ -1,8 +1,23 @@
-<h1 align="center">👋 Hi everyone, I'm Julian Mokwa Felix!</h1>
 
-<h3 align="center">
-  <bold> Data Scientist / ML Engineer </bold>
-</h3>
+> Welcome!
+> 
+> I like to own entire AI products. That's it!
+
+---
+ 
+Sometimes a runner, sometimes an Analyst.
+
+Sometimes a diver, sometimes a Data Scientist.
+
+Sometimes a dancer, sometimes an ML Engineer.
+
+Sometimes a storyteller, sometimes an AI Engineer.
+
+Sometimes I win, sometimes I learn.
+
+##
+
+## Some of my technical skills
 
 <p align="center">
   <img src="images/python.png" height=36"/>
@@ -12,23 +27,9 @@
   <img src="images/docker.png" height=36"/>
 </p>
 
+## Do you have any idea we can work on togheter 🤝?
 
-```markdown
 
-💡 I'm consistently mastering machine learning models
-📊 Passionate about solving client challenges and generating actionable insights through data
-
-```
-
-## 🌟 About Me
-
-Data has been my passion since the year I graduated. Today, I thrive on developing and deploying machine learning and AI solutions each day. What I love most is getting a deep understanding of data and creating actionable insights from it. I also co-founded Bompard Mokwa & Hoffmann, a consulting firm focused on FP&A, where we build advanced analytics tools.
-
-## 💡 Studying
-- 🤖 LLM-based assistants for Financial and Operational Analytics
-- 📚 Mathematical knowledge in ML - [Machine Learning Advanced Track (Bourbaki)](https://www.colegio-bourbaki.com/track-de-machine-learning)
-
-## 🤝 Get in Touch!
 <div align="left">
   <a href="https://www.linkedin.com/in/jmf-data/" 
      target="_blank" 
@@ -44,10 +45,3 @@ Data has been my passion since the year I graduated. Today, I thrive on developi
          style="width:36px; height:36px; display:block;"/>
   </a>
 </div>
-
-## Stats test
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=julianmfx&theme=dark&hide_border=true&background=0d1117&stroke=ffb86b&ring=ffa657&fire=ff7b00&currStreakLabel=ffb86b&sideLabels=ffa657&dates=8b949e" 
-  />
-</p>
