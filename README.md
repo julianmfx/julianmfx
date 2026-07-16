@@ -5,15 +5,15 @@
 
 ---
  
-``Sometimes a Runner, sometimes an Data Analyst.``
+Sometimes a Runner, sometimes an Data Analyst.
 
-``Sometimes a Diver, sometimes a Data Scientist.``
+Sometimes a Diver, sometimes a Data Scientist.
 
-``Sometimes a Dancer, sometimes an ML Engineer.``
+Sometimes a Dancer, sometimes an ML Engineer.
 
-``Sometimes a Storyteller, sometimes an AI Engineer.``
+Sometimes a Storyteller, sometimes an AI Engineer.
 
-``Sometimes I win, sometimes I learn.``
+Sometimes I win, sometimes I learn.
 
 ## Some of my technical skills
 
