@@ -15,8 +15,6 @@ Sometimes a storyteller, sometimes an AI Engineer.
 
 Sometimes I win, sometimes I learn.
 
-##
-
 ## Some of my technical skills
 
 <p align="center">
