@@ -30,7 +30,7 @@ Sometimes I win, sometimes I learn.
   <img src="images/dbt-logo.png" height=36"/>
 </p>
 
-## Do you have any idea we can work on together 🤝?
+## Do you have any ideas we could work on together 🤝?
 
 
 <div align="left">
