@@ -7,7 +7,7 @@
 
 ---
 
-I'm Julian, my main expertise is in creating AI & ML products from scratch. I have more than 6 years of experience working in the Data related field, both in public and private sectors. Recently, my main focus has been scaling start ups. In the last two years, I have been increasingly interesed in data engineering, cloud infrastructure, AI engineering and backend engineering. While these topics began as personal interests, several professional opportunities have been steering my career toward owning entire applications. I have fallen in love with it, and it's what I do almost every day. I am a Data Scientist at heart, so you'll find a little bit of machine learning in everything I do.
+I'm Julian and my main expertise and passion is in creating AI & ML products from scratch. I begun my career in Brazil, by leading with my technical and market expertise BM&H analytics for over three years. I have more than 6 years of experience working in the ML and AI related field, both in public and private sectors. Recently, my main focus has been scaling start ups. In the last two years, I have been increasingly interesed in data engineering, cloud infrastructure, AI engineering and backend engineering. While these topics began as personal interests, several professional opportunities have been steering my career toward owning entire applications. I have fallen in love with it, and it's what I do almost every day. I am a Data Scientist at heart, so you'll find a little bit of machine learning in everything I do.
 
 ## Some of my technical skills
 
