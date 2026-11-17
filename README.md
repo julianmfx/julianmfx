@@ -6,7 +6,8 @@
 > Loving Fintechs. Loving fast-paced environments. Always having fun!
 
 ---
- 
+
+I'm Julian, a Senior Machine Learning Engineer that specializes in creating AI & ML products from scratch. I have more than 6 years of experience working in public and private sectors. Recntly, my main focus has been scaling start ups. In the last two years, I have been increasingly interesed in data engineering, cloud infrastructure, AI engineering and backend engineering. While these topics began as personal interests, several professional opportunities have been steering my career toward owning entire applications. I just feel in love with it and that's what I do almost every day.
 
 ## Some of my technical skills
 
