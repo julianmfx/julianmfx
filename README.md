@@ -1,5 +1,5 @@
 
-> Welcome!
+> Welcome! For a brief summary:
 > 
 > I like to own entire AI products. That's it!
 > 
