@@ -2,6 +2,7 @@
 > Welcome!
 > 
 > I like to own entire AI products. That's it!
+> 
 > Loving Fintechs. Loving fast-paced environments. Always having fun!
 
 ---
